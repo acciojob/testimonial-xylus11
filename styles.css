@@ -1,1 +1,19 @@
 /*  your css code here. If applicable */
+.Main{
+	padding: 15px;
+	background-color:#f5f5f5;
+    width:50%;
+}
+.p1,.p2{
+	padding: 20px;
+	background-color:white;
+	margin:30px;
+    border-style: groove;
+	
+}
+
+.name{
+ text-align:right;
+ font-style: italic;
+
+}
