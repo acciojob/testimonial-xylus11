@@ -1,19 +1,23 @@
 /*  your css code here. If applicable */
-.Main{
-	padding: 15px;
-	background-color:#f5f5f5;
-    width:50%;
+main{background-color:#f5f5f5;
+    padding:30px;}
+.box1{border:1px solid rgb(143, 143, 143);
+   background-color:white;
+   padding:10px;
+   margin:10px;}
+  
+.box2{border:1px solid gray;
+   background-color:white;
+    
+   padding:10px;
+   margin:10px;}
+h1{padding:10px;
+  border:10px;
 }
-.p1,.p2{
-	padding: 20px;
-	background-color:white;
-	margin:30px;
-    border-style: groove;
-	
-}
-
-.name{
- text-align:right;
- font-style: italic;
-
-}
+.para1{
+    padding:10px;
+    border:10px;
+     margin:10px;
+        }
+.para2{text-align:right;
+    font-style:italic;}
